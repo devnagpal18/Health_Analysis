@@ -55,11 +55,23 @@ Most common types of compulsions and their average obsession scores.
 
 #Tools Used
 SQL: For querying and analyzing the data.
+
+
 Excel: For data manipulation and visualization.
+
+
 Python: For additional analysis and data processing.
+
+
 Getting Started
+
 Database Setup: Ensure that the dataset is loaded into a SQL database with the table name health_data.ocd_patient_dataset.
+
 SQL Queries: Run the provided SQL queries to obtain the desired insights.
+
+
 Excel & Python Analysis: Utilize Excel and Python scripts for further analysis and visualization, if necessary.
+
+
 Usage
 This dataset and its associated analysis are intended for use by researchers, clinicians, and mental health professionals interested in understanding OCD demographics and clinical profiles. It can be used to identify trends, evaluate treatment efficacy, and gain insights into the experiences of OCD patients.
